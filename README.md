@@ -1,4 +1,5 @@
 # AI-Powered-Business-Insights-Dashboard
+This dashboard leverages Power BI and AI-driven insights to identify key drivers of sales performance, customer segmentation, and regional profitability
 
 # Business Insights
 The business has achieved total sales of 12.64M with a profit of 1.47M, resulting in a moderate profit margin (~11.61%), indicating scope for profitability improvement
